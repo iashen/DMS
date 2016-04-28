@@ -1,0 +1,12 @@
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\bin\Release\DMS.exe.config
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\bin\Release\DMS.exe
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\bin\Release\DMS.pdb
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\bin\Release\log4net.dll
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\bin\Release\log4net.xml
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\obj\Release\DMS.Form1.resources
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\obj\Release\DMS.Properties.Resources.resources
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\obj\Release\DMS.csproj.GenerateResource.Cache
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\obj\Release\DMS.exe
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\obj\Release\DMS.pdb
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\obj\Release\DMS.csprojResolveAssemblyReference.cache
+C:\Users\Isuranga\documents\visual studio 2012\Projects\DMS\DMS\obj\Release\DMS.frmDrugView.resources
